@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Courselist-React/static/css/main.9dc3709b.css",
+    "main.js": "/Courselist-React/static/js/main.89a35d2a.js",
+    "static/js/787.a9c3269a.chunk.js": "/Courselist-React/static/js/787.a9c3269a.chunk.js",
+    "index.html": "/Courselist-React/index.html",
+    "main.9dc3709b.css.map": "/Courselist-React/static/css/main.9dc3709b.css.map",
+    "main.89a35d2a.js.map": "/Courselist-React/static/js/main.89a35d2a.js.map",
+    "787.a9c3269a.chunk.js.map": "/Courselist-React/static/js/787.a9c3269a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dc3709b.css",
+    "static/js/main.89a35d2a.js"
+  ]
+}
